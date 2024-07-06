@@ -28,3 +28,5 @@ npm run sync
 - DataHarvester - memory collection
 - InstanceList - server instance management
 - PerformanceStats - efficiency metrics
+
+# PR Merge: 2025-10-15 - fix/merge-4174
