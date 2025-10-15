@@ -91,3 +91,5 @@ CMD ["node", "index.js"]
 # PR Merge: 2025-10-15 - fix/merge-5201
 
 # PR Merge: 2025-10-15 - fix/merge-7928
+
+# PR Merge: 2025-10-15 - enhancement/merge-4273
